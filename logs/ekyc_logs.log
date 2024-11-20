@@ -1,0 +1,1687 @@
+[2024-11-04 22:40:05,884: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 22:44:03,787: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 22:44:13,788: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 22:44:14,246: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 22:48:49,351: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 22:48:59,813: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 22:49:00,333: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 22:57:35,415: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 22:57:45,739: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 22:57:46,199: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:01:51,377: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:02:01,132: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:02:01,560: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:04:25,448: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:04:58,631: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:06:25,416: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:07:57,219: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:08:29,803: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:09:49,959: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:10:36,695: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:10:47,278: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:10:47,727: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:21:46,847: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:21:57,108: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:21:57,576: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:31:05,929: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:31:15,878: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:31:16,302: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:31:36,336: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:31:46,395: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:31:46,844: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:33:41,198: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:33:51,125: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:33:51,560: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:38:12,634: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:38:22,595: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:38:23,086: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:40:17,846: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:40:27,939: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:40:28,385: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:40:56,058: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:41:06,623: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:41:07,097: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:42:48,077: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:43:00,102: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:43:00,666: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:46:01,375: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:46:12,268: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:46:12,727: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:49:09,034: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:49:18,947: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:49:19,389: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:50:47,183: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:50:58,528: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:50:59,060: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:51:08,530: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:51:20,662: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:51:21,177: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:52:23,248: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:52:33,899: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:52:34,366: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:55:12,989: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:55:23,472: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:55:23,928: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:57:38,392: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:57:48,282: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:57:48,747: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:58:00,203: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:58:11,015: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:58:11,485: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:58:39,931: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:58:50,878: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:58:51,392: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:59:22,736: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-04 23:59:33,470: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-04 23:59:33,974: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:02:43,475: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:02:54,319: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 00:02:54,821: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:04:18,866: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:04:30,901: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 00:04:31,391: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:06:23,044: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:06:40,978: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 00:06:41,892: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:08:58,835: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:09:22,107: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 00:09:23,254: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:11:36,277: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:11:58,446: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 00:11:59,561: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:12:46,915: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:13:10,435: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 00:13:11,649: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:13:11,969: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:13:11,969: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:13:11,979: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:13:11,981: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:13:20,419: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:13:20,419: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:13:20,424: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:13:20,424: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:13:44,981: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:13:44,981: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:13:44,988: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:13:44,988: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:13:44,990: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:13:44,990: INFO: app]: Face image loaded.
+[2024-11-05 00:13:44,990: ERROR: app]: No face image uploaded.
+[2024-11-05 00:14:14,422: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:14:14,422: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:14:14,428: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:14:14,429: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:14:14,455: INFO: app]: Face image loaded.
+[2024-11-05 00:14:14,464: INFO: app]: ID card image loaded.
+[2024-11-05 00:14:14,497: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2024-11-05 00:14:14,513: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:14:15,031: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:14:15,031: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:14:15,031: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:14:15,031: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:16:50,229: INFO: app]: Face verification status: failed.
+[2024-11-05 00:17:06,447: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:17:06,456: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:17:06,456: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:17:06,456: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:20:14,077: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:20:14,077: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:20:14,084: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:20:14,085: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:20:14,086: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:20:14,086: INFO: app]: Face image loaded.
+[2024-11-05 00:20:14,087: ERROR: app]: No face image uploaded.
+[2024-11-05 00:20:21,955: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:20:21,955: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:20:21,958: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:20:21,962: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:20:21,993: INFO: app]: Face image loaded.
+[2024-11-05 00:20:21,998: INFO: app]: ID card image loaded.
+[2024-11-05 00:20:22,000: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 00:20:22,000: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:20:22,009: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:20:22,311: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:20:22,385: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:20:22,385: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:20:22,385: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:20:22,385: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:20:24,859: INFO: app]: Face verification status: successful.
+[2024-11-05 00:20:24,859: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:20:24,867: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:20:24,875: WARNING: easyocr]: Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+[2024-11-05 00:20:47,448: INFO: easyocr]: Download complete
+[2024-11-05 00:20:47,448: WARNING: easyocr]: Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+[2024-11-05 00:20:52,569: INFO: easyocr]: Download complete.
+[2024-11-05 00:20:54,983: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:20:58,657: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:21:37,311: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:21:37,311: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:21:37,311: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:21:37,311: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:21:37,368: INFO: app]: Face image loaded.
+[2024-11-05 00:21:37,396: INFO: app]: ID card image loaded.
+[2024-11-05 00:21:37,409: INFO: preprocess]: contours are found at, (0, 0, 534, 1280)
+[2024-11-05 00:21:37,409: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:21:37,449: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:21:37,939: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:21:37,983: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:21:37,984: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:21:37,984: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:21:37,984: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:21:40,529: INFO: app]: Face verification status: successful.
+[2024-11-05 00:21:40,529: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:21:40,529: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:21:46,225: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:21:48,453: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:21:48,455: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:21:48,456: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:21:48,458: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:21:48,458: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:21:48,460: INFO: app]: Face image loaded.
+[2024-11-05 00:21:48,460: ERROR: app]: No face image uploaded.
+[2024-11-05 00:21:54,247: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:21:54,248: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:21:54,249: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:21:54,253: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:21:54,288: INFO: app]: Face image loaded.
+[2024-11-05 00:21:54,304: INFO: app]: ID card image loaded.
+[2024-11-05 00:21:54,314: INFO: preprocess]: contours are found at, (0, 0, 534, 1280)
+[2024-11-05 00:21:54,314: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:21:54,330: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:21:54,867: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:21:54,922: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:21:54,922: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:21:54,922: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:21:54,922: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:21:57,790: INFO: app]: Face verification status: successful.
+[2024-11-05 00:21:57,790: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:21:57,790: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:22:02,701: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:22:06,420: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:22:15,247: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:22:31,776: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:22:31,776: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:22:31,776: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:22:31,776: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:22:31,807: INFO: app]: Face image loaded.
+[2024-11-05 00:22:31,811: INFO: app]: ID card image loaded.
+[2024-11-05 00:22:31,815: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 00:22:31,815: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:22:31,815: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:22:31,985: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:22:32,027: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:22:32,027: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:22:32,027: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:22:32,027: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:22:34,188: INFO: app]: Face verification status: successful.
+[2024-11-05 00:22:34,188: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:22:34,188: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:22:36,661: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:22:37,540: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:22:37,540: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:22:37,540: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:22:37,540: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:22:37,572: INFO: app]: Face image loaded.
+[2024-11-05 00:22:37,580: INFO: app]: ID card image loaded.
+[2024-11-05 00:22:37,580: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 00:22:37,580: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:22:37,594: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:22:37,764: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:22:37,815: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:22:37,815: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:22:37,815: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:22:37,815: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:22:39,761: INFO: app]: Face verification status: successful.
+[2024-11-05 00:22:39,761: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:22:39,761: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:22:42,152: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:22:42,502: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:22:45,259: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:24:40,667: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:24:40,673: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:24:40,675: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:24:40,675: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:24:40,731: INFO: app]: Face image loaded.
+[2024-11-05 00:24:40,739: INFO: app]: ID card image loaded.
+[2024-11-05 00:24:40,748: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2024-11-05 00:24:40,748: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:24:40,763: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:24:41,092: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:24:41,151: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:24:41,158: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:24:41,158: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:24:41,158: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:24:43,655: INFO: app]: Face verification status: failed.
+[2024-11-05 00:24:53,437: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:24:53,437: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:24:53,440: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:24:53,442: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:24:53,447: INFO: app]: Face image loaded.
+[2024-11-05 00:24:53,447: INFO: app]: ID card image loaded.
+[2024-11-05 00:24:53,455: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2024-11-05 00:24:53,455: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:24:53,466: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:24:53,766: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:24:53,768: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:24:53,768: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:24:53,768: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:24:53,768: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:24:55,142: INFO: app]: Face verification status: successful.
+[2024-11-05 00:24:55,142: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:24:55,144: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:25:01,097: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:25:04,609: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:25:04,614: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:25:34,689: INFO: app]: New user record inserted: ADCPL72O7K
+[2024-11-05 00:39:48,732: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:39:48,732: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:39:48,732: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:39:48,732: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:39:48,739: INFO: app]: Face image loaded.
+[2024-11-05 00:39:48,756: INFO: app]: ID card image loaded.
+[2024-11-05 00:39:48,772: INFO: preprocess]: contours are found at, (0, 0, 960, 1280)
+[2024-11-05 00:39:48,772: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:39:48,808: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:39:49,157: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:39:49,163: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:39:49,163: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:39:49,163: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:39:49,163: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:39:50,481: INFO: app]: Face verification status: failed.
+[2024-11-05 00:39:54,758: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:39:54,759: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:39:54,759: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:39:54,762: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:39:54,763: INFO: app]: Face image loaded.
+[2024-11-05 00:39:54,791: INFO: app]: ID card image loaded.
+[2024-11-05 00:39:54,800: INFO: preprocess]: contours are found at, (0, 0, 960, 1280)
+[2024-11-05 00:39:54,800: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:39:54,836: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:39:55,159: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:39:55,162: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:39:55,162: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:39:55,162: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:39:55,162: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:39:56,405: INFO: app]: Face verification status: failed.
+[2024-11-05 00:40:08,740: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:40:08,740: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:40:08,740: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:40:08,740: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:40:08,745: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:40:08,747: INFO: app]: Face image loaded.
+[2024-11-05 00:40:08,747: ERROR: app]: No face image uploaded.
+[2024-11-05 00:40:09,507: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:40:09,510: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:40:09,510: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:40:09,512: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:40:14,233: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:40:14,233: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:40:14,234: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:40:14,236: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:40:14,237: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:40:14,238: INFO: app]: Face image loaded.
+[2024-11-05 00:40:14,239: ERROR: app]: No face image uploaded.
+[2024-11-05 00:40:20,624: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:40:20,629: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:40:20,629: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:40:20,632: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:40:20,635: INFO: app]: Face image loaded.
+[2024-11-05 00:40:20,655: INFO: app]: ID card image loaded.
+[2024-11-05 00:40:20,659: INFO: preprocess]: contours are found at, (0, 0, 960, 1280)
+[2024-11-05 00:40:20,659: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:40:20,697: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:40:21,302: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:40:21,311: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:40:21,311: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:40:21,312: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:40:21,312: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:40:22,918: INFO: app]: Face verification status: failed.
+[2024-11-05 00:41:56,543: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:41:56,545: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:41:56,545: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:41:56,550: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:41:56,550: INFO: app]: Face image loaded.
+[2024-11-05 00:41:56,585: INFO: app]: ID card image loaded.
+[2024-11-05 00:41:56,592: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 00:41:56,592: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:41:56,618: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:41:57,142: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:41:57,149: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:41:57,149: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:41:57,149: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:41:57,149: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:41:58,797: INFO: app]: Face verification status: successful.
+[2024-11-05 00:41:58,797: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:41:58,797: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:42:04,969: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:42:15,821: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:42:15,821: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:42:15,824: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:42:15,824: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:42:15,829: INFO: app]: Face image loaded.
+[2024-11-05 00:42:15,861: INFO: app]: ID card image loaded.
+[2024-11-05 00:42:15,875: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 00:42:15,876: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:42:15,916: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:42:16,366: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:42:16,372: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:42:16,372: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:42:16,372: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:42:16,372: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:42:17,931: INFO: app]: Face verification status: successful.
+[2024-11-05 00:42:17,931: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:42:17,935: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:42:24,670: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:42:31,447: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:42:41,172: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:42:41,172: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:42:41,172: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:42:41,180: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:42:45,992: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:42:47,973: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:42:47,973: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:42:47,975: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:42:47,976: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:42:47,977: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:42:47,978: INFO: app]: Face image loaded.
+[2024-11-05 00:42:47,978: ERROR: app]: No face image uploaded.
+[2024-11-05 00:42:53,793: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:42:53,793: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:42:53,795: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:42:53,795: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:42:53,795: INFO: app]: Face image loaded.
+[2024-11-05 00:42:53,825: INFO: app]: ID card image loaded.
+[2024-11-05 00:42:53,835: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 00:42:53,835: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:42:53,866: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:42:54,347: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:42:54,353: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:42:54,353: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:42:54,353: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:42:54,355: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:42:55,768: INFO: app]: Face verification status: successful.
+[2024-11-05 00:42:55,768: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:42:55,768: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:43:01,266: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:43:16,762: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:43:23,438: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:43:55,458: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 00:43:57,196: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:43:57,647: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:43:57,647: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:43:57,647: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:43:57,655: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:44:09,592: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:44:09,592: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:44:09,592: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:44:09,599: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:44:09,602: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:44:09,602: INFO: app]: Face image loaded.
+[2024-11-05 00:44:09,602: ERROR: app]: No face image uploaded.
+[2024-11-05 00:44:12,887: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:44:12,889: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:44:12,891: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:44:12,893: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:44:18,125: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:44:18,125: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:44:18,133: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:44:18,133: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:44:18,133: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:44:18,133: INFO: app]: Face image loaded.
+[2024-11-05 00:44:18,133: ERROR: app]: No face image uploaded.
+[2024-11-05 00:44:26,694: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:44:26,696: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:44:26,698: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:44:26,698: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:44:26,702: INFO: app]: Face image loaded.
+[2024-11-05 00:44:26,725: INFO: app]: ID card image loaded.
+[2024-11-05 00:44:26,739: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 00:44:26,739: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:44:26,773: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:44:27,319: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:44:27,322: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:44:27,322: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:44:27,322: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:44:27,322: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:44:32,986: INFO: app]: Face verification status: successful.
+[2024-11-05 00:44:32,986: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:44:32,986: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:44:36,535: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:44:51,351: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 00:44:51,351: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:44:57,356: INFO: app]: New user record inserted: AGPPS8768J
+[2024-11-05 00:49:18,513: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:49:18,513: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:49:18,530: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:49:18,530: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:49:18,530: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:49:18,530: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:49:31,168: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:49:31,168: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:49:31,175: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:49:31,175: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:49:31,178: INFO: app]: ID card image loaded.
+[2024-11-05 00:49:31,178: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 00:49:31,178: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:49:31,184: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:49:36,689: INFO: utils]: File exists for data/02_intermediate_data/captured_face.jpg
+[2024-11-05 00:49:36,689: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:56:14,829: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:56:14,837: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:56:14,853: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:56:14,853: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:56:14,856: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:56:14,857: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:56:25,530: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:56:25,533: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:56:25,534: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:56:25,539: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:57:07,968: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:57:07,973: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 00:57:07,991: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:57:07,991: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:57:07,991: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:57:07,994: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:57:18,811: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:57:18,811: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:57:18,811: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:57:18,818: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:57:18,818: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 00:57:18,818: INFO: app]: Face image loaded.
+[2024-11-05 00:57:18,818: ERROR: app]: No face image uploaded.
+[2024-11-05 00:57:40,463: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 00:57:40,465: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 00:57:40,469: INFO: app]: ID card type selected: PAN
+[2024-11-05 00:57:40,469: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 00:57:40,473: INFO: app]: Face image loaded.
+[2024-11-05 00:57:40,490: INFO: app]: ID card image loaded.
+[2024-11-05 00:57:40,499: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 00:57:40,499: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 00:57:40,532: INFO: app]: ID card ROI extracted.
+[2024-11-05 00:57:40,986: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:57:40,991: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:57:40,991: INFO: app]: Faces extracted and saved.
+[2024-11-05 00:57:40,991: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 00:57:40,993: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 00:57:42,325: INFO: app]: Face verification status: successful.
+[2024-11-05 00:57:42,325: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 00:57:42,325: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 00:57:48,118: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 00:58:16,911: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 10:40:23,874: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:40:30,100: INFO: rough]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 10:40:30,100: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:41:08,436: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:41:10,722: INFO: rough]: contours are found at, (0, 243, 590, 837)
+[2024-11-05 10:41:10,722: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:45:09,185: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:47:35,305: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:48:08,682: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 10:48:10,693: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:48:11,144: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:48:11,144: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:48:11,144: INFO: app]: ID card type selected: PAN
+[2024-11-05 10:48:11,144: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 10:48:16,413: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:48:16,414: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:48:16,416: INFO: app]: ID card type selected: PAN
+[2024-11-05 10:48:16,416: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 10:48:18,108: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:48:18,114: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:48:18,117: INFO: app]: ID card type selected:  
+[2024-11-05 10:48:20,709: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:48:20,709: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:48:20,709: INFO: app]: ID card type selected: PAN
+[2024-11-05 10:48:20,714: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 10:48:45,363: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:48:45,363: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:48:45,363: INFO: app]: ID card type selected: PAN
+[2024-11-05 10:48:45,369: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 10:48:45,369: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 10:48:45,369: INFO: app]: Face image loaded.
+[2024-11-05 10:48:45,369: ERROR: app]: No face image uploaded.
+[2024-11-05 10:48:49,902: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:48:49,902: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:48:49,908: INFO: app]: ID card type selected: PAN
+[2024-11-05 10:48:49,908: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 10:48:49,917: INFO: app]: Face image loaded.
+[2024-11-05 10:48:49,980: INFO: app]: ID card image loaded.
+[2024-11-05 10:48:50,013: INFO: preprocess]: contours are found at, (0, 0, 1600, 1150)
+[2024-11-05 10:48:50,013: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:48:50,110: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:48:50,946: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:48:50,951: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:48:50,951: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:48:50,951: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:48:50,952: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:48:57,319: INFO: app]: Face verification status: successful.
+[2024-11-05 10:48:57,319: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:48:57,319: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:49:00,289: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:49:35,893: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 10:49:35,937: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:49:40,261: INFO: app]: New user record inserted: FZKPS9811P
+[2024-11-05 10:50:00,024: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:50:00,024: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:50:00,026: INFO: app]: ID card type selected:  
+[2024-11-05 10:50:00,031: INFO: app]: Face image loaded.
+[2024-11-05 10:50:00,059: INFO: app]: ID card image loaded.
+[2024-11-05 10:50:00,074: INFO: preprocess]: contours are found at, (0, 0, 1600, 1150)
+[2024-11-05 10:50:00,074: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:50:00,128: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:50:01,064: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:50:01,072: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:50:01,072: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:50:01,073: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:50:01,073: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:50:02,903: INFO: app]: Face verification status: successful.
+[2024-11-05 10:50:02,903: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:50:02,909: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:50:08,284: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:50:59,642: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 10:51:04,521: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:51:04,521: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:51:04,523: INFO: app]: ID card type selected:  
+[2024-11-05 10:51:04,525: INFO: app]: Face image loaded.
+[2024-11-05 10:51:04,533: INFO: app]: ID card image loaded.
+[2024-11-05 10:51:04,544: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 10:51:04,544: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:51:04,557: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:51:04,915: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:51:04,921: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:51:04,921: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:51:04,921: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:51:04,921: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:51:06,754: INFO: app]: Face verification status: successful.
+[2024-11-05 10:51:06,754: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:51:06,754: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:51:12,824: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:51:13,969: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:51:13,969: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:51:13,972: INFO: app]: ID card type selected:  
+[2024-11-05 10:51:13,977: INFO: app]: Face image loaded.
+[2024-11-05 10:51:13,988: INFO: app]: ID card image loaded.
+[2024-11-05 10:51:13,994: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 10:51:13,994: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:51:14,018: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:51:14,414: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:51:14,423: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:51:14,423: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:51:14,423: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:51:14,425: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:51:15,929: INFO: app]: Face verification status: successful.
+[2024-11-05 10:51:15,937: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:51:15,937: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:51:22,290: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:51:24,704: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 10:51:28,428: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 10:54:25,064: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:54:25,067: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:54:25,088: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:54:25,088: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:54:25,092: INFO: app]: ID card type selected:  
+[2024-11-05 10:54:25,092: INFO: app]: Face image loaded.
+[2024-11-05 10:54:25,102: INFO: app]: ID card image loaded.
+[2024-11-05 10:54:25,111: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 10:54:25,112: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:54:25,126: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:54:25,471: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:54:25,476: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:54:25,476: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:54:25,476: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:54:25,476: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:54:26,878: INFO: app]: Face verification status: successful.
+[2024-11-05 10:54:26,878: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:54:26,878: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:54:32,236: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:55:03,617: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:55:03,622: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:55:03,632: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:55:03,636: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:55:03,637: INFO: app]: ID card type selected:  
+[2024-11-05 10:55:03,643: INFO: app]: Face image loaded.
+[2024-11-05 10:55:03,652: INFO: app]: ID card image loaded.
+[2024-11-05 10:55:03,655: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 10:55:03,655: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:55:03,673: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:55:03,835: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:55:03,836: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:55:03,839: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:55:03,839: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:55:03,839: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:55:05,201: INFO: app]: Face verification status: successful.
+[2024-11-05 10:55:05,201: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:55:05,201: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:55:11,235: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:55:15,995: INFO: app]: Text extracted and information parsed from ID card.
+[2024-11-05 10:56:37,589: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:56:37,594: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:56:37,609: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:56:37,609: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:56:37,612: INFO: app]: ID card type selected:  
+[2024-11-05 10:56:37,615: INFO: app]: Face image loaded.
+[2024-11-05 10:56:37,625: INFO: app]: ID card image loaded.
+[2024-11-05 10:56:37,630: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 10:56:37,630: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:56:37,641: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:56:37,814: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:56:37,817: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:56:37,817: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:56:37,817: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:56:37,817: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:56:39,084: INFO: app]: Face verification status: successful.
+[2024-11-05 10:56:39,084: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:56:39,084: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:56:44,987: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:56:57,646: INFO: app]: Text extracted and information parsed from ID card.,{text_info}
+[2024-11-05 10:57:46,619: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:57:46,623: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:57:46,635: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:57:46,635: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:57:46,635: INFO: app]: ID card type selected:  
+[2024-11-05 10:57:46,635: INFO: app]: Face image loaded.
+[2024-11-05 10:57:46,652: INFO: app]: ID card image loaded.
+[2024-11-05 10:57:46,653: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 10:57:46,653: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:57:46,667: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:57:47,051: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:57:47,059: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:57:47,059: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:57:47,061: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:57:47,061: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:57:48,386: INFO: app]: Face verification status: successful.
+[2024-11-05 10:57:48,386: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:57:48,386: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:57:53,892: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:58:01,453: INFO: app]: Text extracted and information parsed from ID card: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 10:58:39,746: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:58:39,750: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 10:58:39,760: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 10:58:39,760: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 10:58:39,760: INFO: app]: ID card type selected:  
+[2024-11-05 10:58:39,768: INFO: app]: Face image loaded.
+[2024-11-05 10:58:39,776: INFO: app]: ID card image loaded.
+[2024-11-05 10:58:39,785: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 10:58:39,785: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 10:58:39,793: INFO: app]: ID card ROI extracted.
+[2024-11-05 10:58:40,177: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:58:40,184: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:58:40,184: INFO: app]: Faces extracted and saved.
+[2024-11-05 10:58:40,184: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 10:58:40,184: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 10:58:41,868: INFO: app]: Face verification status: successful.
+[2024-11-05 10:58:41,868: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 10:58:41,868: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 10:58:47,644: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 10:59:00,048: INFO: app]: Text extracted and information parsed from ID card: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2024-11-05 11:03:06,142: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:03:06,145: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:03:06,160: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:03:06,160: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:03:06,162: INFO: app]: ID card type selected:  
+[2024-11-05 11:03:06,165: INFO: app]: Face image loaded.
+[2024-11-05 11:03:06,173: INFO: app]: ID card image loaded.
+[2024-11-05 11:03:06,173: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 11:03:06,173: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:03:06,193: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:03:06,360: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:03:06,364: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:03:06,365: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:03:06,365: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:03:06,365: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:03:07,613: INFO: app]: Face verification status: successful.
+[2024-11-05 11:03:07,613: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:03:07,613: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:03:12,826: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:03:24,307: INFO: app]: Text extracted and information parsed from ID card: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2024-11-05 11:03:24,315: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:03:50,609: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:03:50,617: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:03:50,633: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:03:50,633: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:03:50,634: INFO: app]: ID card type selected:  
+[2024-11-05 11:03:50,637: INFO: app]: Face image loaded.
+[2024-11-05 11:03:50,643: INFO: app]: ID card image loaded.
+[2024-11-05 11:03:50,652: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-11-05 11:03:50,652: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:03:50,667: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:03:50,829: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:03:50,832: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:03:50,832: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:03:50,832: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:03:50,832: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:03:51,820: INFO: app]: Face verification status: successful.
+[2024-11-05 11:03:51,820: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:03:51,820: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:03:54,204: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:04:00,056: INFO: app]: Text extracted and information parsed from ID card: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2024-11-05 11:04:24,635: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:04:24,636: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:04:24,639: INFO: app]: ID card type selected:  
+[2024-11-05 11:04:24,643: INFO: app]: Face image loaded.
+[2024-11-05 11:04:24,645: INFO: app]: ID card image loaded.
+[2024-11-05 11:04:24,646: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 11:04:24,648: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:04:24,664: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:04:24,899: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:04:24,906: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:04:24,906: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:04:24,906: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:04:24,906: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:04:26,507: INFO: app]: Face verification status: successful.
+[2024-11-05 11:04:26,507: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:04:26,510: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:04:29,733: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:04:29,739: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:04:29,741: INFO: app]: ID card type selected:  
+[2024-11-05 11:04:29,783: INFO: app]: Face image loaded.
+[2024-11-05 11:04:29,804: INFO: app]: ID card image loaded.
+[2024-11-05 11:04:29,804: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 11:04:29,804: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:04:29,813: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:04:30,099: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:04:30,156: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:04:30,156: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:04:30,156: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:04:30,156: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:04:32,710: INFO: app]: Face verification status: successful.
+[2024-11-05 11:04:32,710: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:04:32,710: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:04:32,728: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:04:38,470: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:04:41,142: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 11:04:43,757: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 11:07:13,198: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:07:13,215: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:07:13,222: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:07:13,231: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:07:13,231: INFO: app]: ID card type selected:  
+[2024-11-05 11:07:13,264: INFO: app]: Face image loaded.
+[2024-11-05 11:07:13,267: INFO: app]: ID card image loaded.
+[2024-11-05 11:07:13,271: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 11:07:13,271: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:07:13,279: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:07:13,575: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:07:13,646: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:07:13,648: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:07:13,648: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:07:13,649: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:07:15,871: INFO: app]: Face verification status: successful.
+[2024-11-05 11:07:15,871: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:09:36,938: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:09:36,946: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:09:36,962: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:09:36,964: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:09:36,964: INFO: app]: ID card type selected:  
+[2024-11-05 11:09:37,006: INFO: app]: Face image loaded.
+[2024-11-05 11:09:37,013: INFO: app]: ID card image loaded.
+[2024-11-05 11:09:37,015: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 11:09:37,015: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:09:37,022: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:09:37,316: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:09:37,404: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:09:37,404: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:09:37,404: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:09:37,404: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:09:39,481: INFO: app]: Face verification status: successful.
+[2024-11-05 11:09:39,481: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:09:39,481: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:09:40,904: INFO: ocr_engine]: Extracted text: INCOME TAX DEPARTMENT z GOVT. OF INDIA!
+' Permanent Account Number Card Res '
+‘ DUTPM5618A Pasta
+; *PRASHAM SHRENIK MEHTA ee '
+| SHRENIK MAHENDRA MEHTA '
++ 15/09/2004 FemsFesignatre H
+
+[2024-11-05 11:09:40,904: INFO: app]: Text extracted and information parsed from ID card: INCOME TAX DEPARTMENT z GOVT. OF INDIA!
+' Permanent Account Number Card Res '
+‘ DUTPM5618A Pasta
+; *PRASHAM SHRENIK MEHTA ee '
+| SHRENIK MAHENDRA MEHTA '
++ 15/09/2004 FemsFesignatre H
+[2024-11-05 11:11:13,954: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:11:13,962: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:11:13,973: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:11:13,973: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:11:13,973: INFO: app]: ID card type selected:  
+[2024-11-05 11:11:14,010: INFO: app]: Face image loaded.
+[2024-11-05 11:11:14,015: INFO: app]: ID card image loaded.
+[2024-11-05 11:11:14,016: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 11:11:14,016: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:11:14,025: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:11:14,364: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:11:14,435: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:11:14,435: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:11:14,435: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:11:14,435: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:11:16,609: INFO: app]: Face verification status: successful.
+[2024-11-05 11:11:16,609: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:11:16,611: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:11:21,923: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:11:24,685: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|Rmoz|15/09/2004|KTETT / Signature|
+[2024-11-05 11:12:15,799: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:12:15,808: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:12:15,815: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:12:15,815: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:12:15,820: INFO: app]: ID card type selected:  
+[2024-11-05 11:12:15,856: INFO: app]: Face image loaded.
+[2024-11-05 11:12:15,859: INFO: app]: ID card image loaded.
+[2024-11-05 11:12:15,859: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 11:12:15,859: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:12:15,864: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:12:16,046: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:12:16,106: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:12:16,106: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:12:16,114: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:12:16,114: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:12:18,590: INFO: app]: Face verification status: successful.
+[2024-11-05 11:12:18,598: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:12:18,598: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:12:22,994: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:12:26,027: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|TeT} 7#Q&Ti|Permanent Account Mumber Card|DUTPMS618A|TDAran R|PRASHAM SHRENIK MEHTA|f7|Father|Wame|SHRENIK MAHENDRA MEHTA|D3e onertia_|Rmoz|15/09/2004|KTETT / Signature|
+[2024-11-05 11:13:22,069: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:13:22,077: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:13:22,089: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:13:22,093: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:13:22,095: INFO: app]: ID card type selected:  
+[2024-11-05 11:13:22,126: INFO: app]: Face image loaded.
+[2024-11-05 11:13:22,126: INFO: app]: ID card image loaded.
+[2024-11-05 11:13:22,134: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 11:13:22,134: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:13:22,142: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:13:22,463: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:13:22,542: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:13:22,542: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:13:22,542: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:13:22,542: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:13:24,813: INFO: app]: Face verification status: successful.
+[2024-11-05 11:13:24,813: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:13:24,813: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:13:30,765: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:13:38,087: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 11:21:55,584: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:21:55,590: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:21:55,604: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:21:55,605: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:21:55,607: INFO: app]: ID card type selected: PAN
+[2024-11-05 11:21:55,608: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 11:21:55,645: INFO: app]: Face image loaded.
+[2024-11-05 11:21:55,679: INFO: app]: ID card image loaded.
+[2024-11-05 11:21:55,694: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 11:21:55,694: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:21:55,742: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:21:56,079: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:21:56,125: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:21:56,125: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:21:56,126: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:21:56,126: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:21:58,430: INFO: app]: Face verification status: failed.
+[2024-11-05 11:22:02,420: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:22:02,420: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:22:02,422: INFO: app]: ID card type selected: PAN
+[2024-11-05 11:22:02,423: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 11:22:02,426: INFO: app]: Face image loaded.
+[2024-11-05 11:22:02,462: INFO: app]: ID card image loaded.
+[2024-11-05 11:22:02,474: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 11:22:02,474: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:22:02,546: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:22:02,905: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:22:02,908: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:22:02,909: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:22:02,910: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:22:02,910: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:22:04,075: INFO: app]: Face verification status: successful.
+[2024-11-05 11:22:04,075: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:22:04,076: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:22:06,330: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:22:28,749: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 11:24:22,499: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:24:22,499: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:24:22,502: INFO: app]: ID card type selected: PAN
+[2024-11-05 11:24:22,503: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 11:24:22,506: INFO: app]: Face image loaded.
+[2024-11-05 11:24:22,531: INFO: app]: ID card image loaded.
+[2024-11-05 11:24:22,543: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 11:24:22,544: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:24:22,588: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:24:22,845: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:24:22,848: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:24:22,849: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:24:22,849: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:24:22,849: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:24:23,859: INFO: app]: Face verification status: successful.
+[2024-11-05 11:24:23,859: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:24:23,860: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:24:25,967: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:24:47,097: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 11:24:59,049: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:25:14,420: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 11:25:15,138: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 11:25:15,266: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:25:15,266: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:25:15,267: INFO: app]: ID card type selected: PAN
+[2024-11-05 11:25:15,268: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 11:25:27,886: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:25:27,887: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:25:27,890: INFO: app]: ID card type selected: PAN
+[2024-11-05 11:25:27,891: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 11:25:27,892: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 11:25:27,893: INFO: app]: Face image loaded.
+[2024-11-05 11:25:27,894: ERROR: app]: No face image uploaded.
+[2024-11-05 11:25:33,059: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 11:25:33,060: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 11:25:33,063: INFO: app]: ID card type selected: PAN
+[2024-11-05 11:25:33,063: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 11:25:33,066: INFO: app]: Face image loaded.
+[2024-11-05 11:25:33,086: INFO: app]: ID card image loaded.
+[2024-11-05 11:25:33,126: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 11:25:33,126: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 11:25:33,162: INFO: app]: ID card ROI extracted.
+[2024-11-05 11:25:33,523: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:25:33,526: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:25:33,527: INFO: app]: Faces extracted and saved.
+[2024-11-05 11:25:33,527: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:25:33,528: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 11:25:37,278: INFO: app]: Face verification status: successful.
+[2024-11-05 11:25:37,278: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 11:25:37,279: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 11:25:39,885: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 11:26:05,493: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 11:26:05,502: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 11:26:09,798: INFO: app]: New user record inserted: AGPPS8768J
+[2024-11-05 15:52:36,243: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 15:52:52,731: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 15:52:53,422: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 15:52:53,611: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:52:53,611: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:52:53,615: WARNING: app]: No ID card image uploaded.
+[2024-11-05 15:53:16,765: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:53:16,766: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:53:16,795: INFO: app]: ID card image loaded.
+[2024-11-05 15:53:16,828: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 15:53:16,828: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:53:16,864: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:53:28,953: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:53:28,954: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:53:28,986: INFO: app]: ID card image loaded.
+[2024-11-05 15:53:28,998: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 15:53:29,000: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:53:29,050: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:53:29,493: INFO: app]: Photo captured successfully
+[2024-11-05 15:53:29,494: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:53:29,508: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:53:29,508: INFO: app]: Webcam photo saved.
+[2024-11-05 15:53:29,509: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:53:29,509: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 15:53:34,523: INFO: app]: Face verification status: failed.
+[2024-11-05 15:53:51,939: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:53:51,940: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:53:51,943: WARNING: app]: No ID card image uploaded.
+[2024-11-05 15:54:00,072: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:54:00,073: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:54:00,081: INFO: app]: ID card image loaded.
+[2024-11-05 15:54:00,084: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 15:54:00,084: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:54:00,090: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:54:03,215: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:54:03,215: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:54:03,221: INFO: app]: ID card image loaded.
+[2024-11-05 15:54:03,223: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 15:54:03,223: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:54:03,229: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:54:03,419: INFO: app]: Photo captured successfully
+[2024-11-05 15:54:03,420: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:54:03,429: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:54:03,429: INFO: app]: Webcam photo saved.
+[2024-11-05 15:54:03,430: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:54:03,431: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 15:54:04,946: INFO: app]: Face verification status: successful.
+[2024-11-05 15:54:04,947: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 15:54:04,953: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 15:54:08,623: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 15:54:13,287: ERROR: postprocess]: Error extracting PAN information: 'Permanent Account Number' is not in list
+[2024-11-05 15:54:13,288: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 15:55:08,332: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:55:08,333: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:55:08,346: INFO: app]: ID card image loaded.
+[2024-11-05 15:55:08,351: INFO: preprocess]: contours are found at, (0, 0, 534, 1280)
+[2024-11-05 15:55:08,351: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:55:08,370: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:55:08,622: INFO: app]: Photo captured successfully
+[2024-11-05 15:55:08,623: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:55:08,629: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:55:08,630: INFO: app]: Webcam photo saved.
+[2024-11-05 15:55:08,630: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:55:08,630: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 15:55:09,615: INFO: app]: Face verification status: failed.
+[2024-11-05 15:55:33,638: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:55:33,638: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:55:33,652: INFO: app]: ID card image loaded.
+[2024-11-05 15:55:33,658: INFO: preprocess]: contours are found at, (0, 0, 534, 1280)
+[2024-11-05 15:55:33,659: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:55:33,676: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:55:36,596: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:55:36,596: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:55:36,608: INFO: app]: ID card image loaded.
+[2024-11-05 15:55:36,614: INFO: preprocess]: contours are found at, (0, 0, 534, 1280)
+[2024-11-05 15:55:36,615: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:55:36,631: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:55:36,891: INFO: app]: Photo captured successfully
+[2024-11-05 15:55:36,892: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:55:36,901: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:55:36,901: INFO: app]: Webcam photo saved.
+[2024-11-05 15:55:36,902: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:55:36,902: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 15:55:37,947: INFO: app]: Face verification status: failed.
+[2024-11-05 15:57:14,218: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:57:14,219: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:57:14,223: INFO: app]: ID card image loaded.
+[2024-11-05 15:57:14,224: INFO: preprocess]: contours are found at, (1, 0, 260, 168)
+[2024-11-05 15:57:14,224: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:57:14,227: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:57:14,331: INFO: app]: Photo captured successfully
+[2024-11-05 15:57:14,332: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:14,340: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:14,340: INFO: app]: Webcam photo saved.
+[2024-11-05 15:57:14,341: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:14,341: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 15:57:15,480: INFO: app]: Face verification status: failed.
+[2024-11-05 15:57:30,057: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:57:30,058: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:57:30,061: INFO: app]: ID card image loaded.
+[2024-11-05 15:57:30,062: INFO: preprocess]: contours are found at, (1, 0, 260, 168)
+[2024-11-05 15:57:30,063: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:57:30,065: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:57:32,554: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:57:32,554: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:57:32,557: INFO: app]: ID card image loaded.
+[2024-11-05 15:57:32,558: INFO: preprocess]: contours are found at, (1, 0, 260, 168)
+[2024-11-05 15:57:32,558: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:57:32,561: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:57:32,698: INFO: app]: Photo captured successfully
+[2024-11-05 15:57:32,698: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:32,705: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:32,705: INFO: app]: Webcam photo saved.
+[2024-11-05 15:57:32,706: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:32,706: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 15:57:33,791: INFO: app]: Face verification status: successful.
+[2024-11-05 15:57:33,792: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 15:57:33,792: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 15:57:36,222: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 15:57:37,812: ERROR: postprocess]: Error extracting PAN information: 'GOVT OF INDIA' is not in list
+[2024-11-05 15:57:37,812: INFO: app]: Text extracted and information parsed from ID card: |3770 0977 5232|n|
+[2024-11-05 15:57:43,052: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:57:43,052: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:57:43,056: WARNING: app]: No ID card image uploaded.
+[2024-11-05 15:57:48,945: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:57:48,945: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:57:48,950: INFO: app]: ID card image loaded.
+[2024-11-05 15:57:48,951: INFO: preprocess]: contours are found at, (1, 0, 260, 168)
+[2024-11-05 15:57:48,952: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:57:48,954: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:57:52,045: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 15:57:52,045: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 15:57:52,049: INFO: app]: ID card image loaded.
+[2024-11-05 15:57:52,050: INFO: preprocess]: contours are found at, (1, 0, 260, 168)
+[2024-11-05 15:57:52,050: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 15:57:52,053: INFO: app]: ID card ROI extracted.
+[2024-11-05 15:57:52,199: INFO: app]: Photo captured successfully
+[2024-11-05 15:57:52,199: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:52,206: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:52,206: INFO: app]: Webcam photo saved.
+[2024-11-05 15:57:52,207: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 15:57:52,207: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 15:57:53,508: INFO: app]: Face verification status: successful.
+[2024-11-05 15:57:53,508: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 15:57:53,509: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 15:57:56,479: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 15:57:58,348: INFO: app]: Text extracted and information parsed from ID card: |3770 0977 5232|n|
+[2024-11-05 16:03:50,486: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:03:50,491: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:03:50,510: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:03:50,511: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:03:50,514: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:03:50,516: WARNING: app]: No ID card image uploaded.
+[2024-11-05 16:04:12,805: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:04:12,809: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:04:12,826: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:04:17,719: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:04:17,720: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:04:17,721: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:04:17,732: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:04:17,743: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:04:17,743: INFO: app]: Face image captured from camera and saved.
+[2024-11-05 16:04:17,747: INFO: app]: ID card image loaded.
+[2024-11-05 16:04:17,749: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:04:17,749: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:04:17,754: INFO: app]: ID card ROI extracted.
+[2024-11-05 16:04:17,938: INFO: app]: Faces extracted and saved.
+[2024-11-05 16:04:17,939: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:04:17,939: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:04:19,591: INFO: app]: Face verification status: successful.
+[2024-11-05 16:04:19,591: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:04:19,592: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:04:22,665: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:04:26,851: ERROR: postprocess]: Error extracting PAN information: 'Permanent Account Number' is not in list
+[2024-11-05 16:04:26,852: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 16:04:59,706: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:04:59,707: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:04:59,709: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:04:59,718: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:04:59,729: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:04:59,730: INFO: app]: Face image captured from camera and saved.
+[2024-11-05 16:04:59,761: INFO: app]: ID card image loaded.
+[2024-11-05 16:04:59,771: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:04:59,772: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:04:59,820: INFO: app]: ID card ROI extracted.
+[2024-11-05 16:05:00,272: INFO: app]: Faces extracted and saved.
+[2024-11-05 16:05:00,273: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:05:00,273: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:05:02,084: INFO: app]: Face verification status: failed.
+[2024-11-05 16:05:02,800: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:05:02,800: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:05:02,801: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:05:04,958: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:05:04,958: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:05:04,959: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:05:04,968: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:05:04,978: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:05:04,978: INFO: app]: Face image captured from camera and saved.
+[2024-11-05 16:05:05,011: INFO: app]: ID card image loaded.
+[2024-11-05 16:05:05,044: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:05:05,045: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:05:05,127: INFO: app]: ID card ROI extracted.
+[2024-11-05 16:05:05,609: INFO: app]: Faces extracted and saved.
+[2024-11-05 16:05:05,609: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:05:05,609: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:05:07,160: INFO: app]: Face verification status: failed.
+[2024-11-05 16:12:35,213: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:12:35,219: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:12:52,698: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:12:52,698: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:12:59,213: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:12:59,214: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:12:59,238: INFO: utils]: File exists for data/02_intermediate_data\face_image.jpg
+[2024-11-05 16:12:59,258: INFO: preprocess]: Image saved successfully: data/02_intermediate_data\face_image.jpg
+[2024-11-05 16:12:59,259: INFO: app]: Face image captured and saved successfully
+[2024-11-05 16:12:59,425: INFO: utils]: File exists for data/02_intermediate_data\face_image.jpg
+[2024-11-05 16:12:59,426: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:13:00,952: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:13:00,954: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:13:03,538: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:14:59,370: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:14:59,376: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:14:59,395: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:14:59,396: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:14:59,399: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:14:59,400: WARNING: app]: No ID card image uploaded.
+[2024-11-05 16:15:24,517: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:15:24,521: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:15:24,537: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:15:24,538: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:15:24,540: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:15:24,541: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 16:15:36,514: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:15:36,515: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:15:36,516: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:15:36,517: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 16:15:36,518: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-11-05 16:15:36,520: INFO: app]: Face image loaded.
+[2024-11-05 16:15:36,520: ERROR: app]: No face image uploaded.
+[2024-11-05 16:15:42,378: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:15:42,378: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:15:42,380: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:15:42,381: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 16:15:42,384: INFO: app]: Face image loaded.
+[2024-11-05 16:15:42,415: INFO: app]: ID card image loaded.
+[2024-11-05 16:15:42,429: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:15:42,430: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:15:42,480: INFO: app]: ID card ROI extracted.
+[2024-11-05 16:15:42,892: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:15:42,897: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:15:42,897: INFO: app]: Faces extracted and saved.
+[2024-11-05 16:15:42,897: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-11-05 16:15:42,898: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:15:44,936: INFO: app]: Face verification status: successful.
+[2024-11-05 16:15:44,936: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:15:44,937: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:15:47,867: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:16:14,354: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 16:23:38,205: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:23:38,214: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:23:38,230: INFO: app]: Page layout set to wider configuration.
+[2024-11-05 16:23:38,231: INFO: app]: Custom theme applied to Streamlit app.
+[2024-11-05 16:23:38,233: INFO: app]: ID card type selected: PAN
+[2024-11-05 16:23:38,234: INFO: app]: Header set for PAN Card registration.
+[2024-11-05 16:27:31,578: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:27:31,588: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:27:54,761: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:27:59,697: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:27:59,701: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:27:59,707: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:27:59,707: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:27:59,898: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:27:59,899: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:28:00,953: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:28:00,955: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:28:04,121: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:29:36,561: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:29:36,564: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:29:42,724: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:29:42,727: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:30:36,954: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:30:36,957: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:30:42,796: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:30:42,799: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:30:42,830: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:30:42,831: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:30:43,271: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:30:43,271: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:30:44,314: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:30:44,315: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:30:47,447: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:31:55,776: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:31:55,780: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:31:58,262: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:31:58,265: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:32:04,323: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:32:04,327: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:32:07,842: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:32:07,845: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:32:07,850: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:32:07,851: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:32:08,007: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:32:08,007: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:32:08,978: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:32:08,979: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:32:11,986: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:34:52,118: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:34:52,121: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:34:56,245: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:34:56,248: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:34:56,278: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:34:56,278: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:34:56,598: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:34:56,598: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:34:57,434: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:34:57,435: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:34:59,795: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:41:25,904: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:41:25,912: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:41:25,938: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:41:25,941: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:41:27,629: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:41:27,633: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:41:27,671: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:41:27,672: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:41:28,053: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:41:28,053: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:41:29,005: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:41:29,006: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:41:31,397: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:44:00,774: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:44:00,777: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:44:00,793: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:44:00,797: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:44:00,837: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:44:00,837: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:44:01,173: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:44:01,174: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:44:01,965: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:44:01,966: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:44:04,181: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:44:26,700: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 16:45:10,965: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:45:10,967: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:45:10,983: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:10,986: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:11,017: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:45:11,017: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:45:11,355: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:11,356: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:45:12,201: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:45:12,201: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:45:14,543: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:45:37,373: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:37,378: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:40,161: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 16:45:40,161: INFO: app]: Text processed: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 16:45:40,781: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:40,784: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:40,830: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:45:40,831: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:45:41,237: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:45:41,237: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:45:42,297: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:45:42,297: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:45:45,198: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:46:03,046: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:03,050: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:03,103: INFO: preprocess]: contours are found at, (0, 0, 1600, 1200)
+[2024-11-05 16:46:03,103: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:46:03,709: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:03,709: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:46:05,268: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:46:05,269: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:46:09,258: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:46:16,927: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 16:46:16,929: INFO: app]: Text processed: {'ID': 'AGPPS8768J', 'Name': 'SONAL SHRENIK MEHTA', "Father's Name": 'JAYANTILAL CHIMANLAL SHAH', 'DOB': datetime.datetime(1974, 12, 7, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 16:46:36,997: INFO: app]: Text extracted and information parsed from ID card: |HRT|rer|INCOME TAX DEPARTMENT|GOVT OF INDIA|SONAL SHRENIK MEHTA|JAYANTILAL CHIMANLAL SHAH|07/12/1974|Permanent Account Number|AGPPS8768J|X|Signature|
+[2024-11-05 16:46:36,997: INFO: app]: Text processed: {'ID': 'AGPPS8768J', 'Name': 'SONAL SHRENIK MEHTA', "Father's Name": 'JAYANTILAL CHIMANLAL SHAH', 'DOB': datetime.datetime(1974, 12, 7, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 16:46:37,000: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:49,609: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:49,613: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:55,330: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:55,334: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:59,988: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:46:59,992: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:47:02,797: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:47:02,801: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:47:02,810: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:47:02,811: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:47:02,993: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:47:02,994: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:47:04,180: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:47:04,181: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:47:06,913: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:47:09,847: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 16:47:09,848: INFO: app]: Text processed: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 16:52:27,637: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:52:27,644: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:52:27,699: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:52:27,702: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:52:27,708: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:52:27,708: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:52:27,837: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:52:27,838: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:52:28,546: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:52:28,546: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:52:30,854: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:52:33,642: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 16:52:33,642: INFO: app]: Text processed: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 16:59:30,456: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:59:30,459: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:59:30,476: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:59:30,480: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:59:30,486: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:59:30,487: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:59:30,623: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:59:30,623: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 16:59:31,320: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 16:59:31,320: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 16:59:33,744: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 16:59:36,540: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 16:59:36,542: INFO: app]: Text processed: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 16:59:36,551: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:59:59,171: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:59:59,174: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 16:59:59,191: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:59:59,194: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:59:59,200: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 16:59:59,201: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 16:59:59,354: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 16:59:59,354: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:00:00,226: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:00:00,226: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:00:02,867: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:00:06,228: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 17:00:06,228: INFO: app]: Text processed: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 17:02:04,579: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:02:04,583: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:02:04,603: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:02:04,607: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:02:04,614: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 17:02:04,614: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:02:04,780: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:02:04,781: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:02:05,698: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:02:05,699: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:02:08,156: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:02:10,960: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 17:02:10,961: INFO: app]: Text processed: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 17:03:17,590: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:03:17,597: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:03:17,617: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:03:17,621: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:03:17,627: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 17:03:17,628: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:03:17,803: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:03:17,803: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:03:18,685: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:03:18,685: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:03:21,127: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:03:23,878: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 17:03:23,879: INFO: app]: Text processed: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2024-11-05 17:03:54,302: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:03:54,309: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:03:54,325: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:03:54,329: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:03:54,335: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 17:03:54,336: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:03:54,510: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:03:54,510: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:03:55,634: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:03:55,635: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:03:58,910: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:04:02,476: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 17:04:02,477: INFO: app]: Text processed: {'ID': 'DUTPMS618A', 'Name': 'PRASHAM SHRENIK MEHTA', "Father's Name": 'SHRENIK MAHENDRA MEHTA', 'DOB': datetime.datetime(2004, 9, 15, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:04:02,484: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:04:30,191: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:04:30,194: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:04:30,200: INFO: preprocess]: contours are found at, (0, 0, 459, 300)
+[2024-11-05 17:04:30,201: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:04:30,393: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:04:30,394: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:04:31,586: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:04:31,586: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:04:34,303: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:04:37,680: INFO: app]: Text extracted and information parsed from ID card: |3114ar|fatT|HRT|Tar|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Mumber Card|DUTPMS618A|PRASHAM SHRENIK MEHTA|Father|Wame|SHRENIK MAHENDRA MEHTA|15/09/2004|
+[2024-11-05 17:04:37,680: INFO: app]: Text processed: {'ID': 'DUTPMS618A', 'Name': 'PRASHAM SHRENIK MEHTA', "Father's Name": 'SHRENIK MAHENDRA MEHTA', 'DOB': datetime.datetime(2004, 9, 15, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:09:27,527: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:09:27,531: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:10:06,999: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:10:07,003: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:10:13,812: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:10:13,815: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:10:13,843: INFO: preprocess]: contours are found at, (0, 0, 960, 1280)
+[2024-11-05 17:10:13,843: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:10:14,188: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:10:14,189: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:12:24,481: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:12:24,486: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:12:26,091: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:12:26,094: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:12:26,126: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 17:12:26,126: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:12:26,647: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:12:26,647: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:13:00,700: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:13:00,705: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:13:03,804: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:13:03,807: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:13:03,838: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 17:13:03,838: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:13:04,203: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:13:04,204: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:13:56,296: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:13:56,299: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:14:03,228: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:14:03,230: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:14:03,258: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 17:14:03,258: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:14:03,678: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:14:03,678: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:15:34,606: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:15:34,609: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:15:39,033: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:15:39,036: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:15:39,066: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 17:15:39,066: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:15:39,475: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:15:39,476: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:16:00,992: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:16:00,997: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:16:05,197: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:16:05,201: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:16:05,228: INFO: preprocess]: contours are found at, (0, 0, 1280, 960)
+[2024-11-05 17:16:05,229: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:16:05,551: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:16:05,551: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:16:06,529: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:16:06,529: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:16:09,315: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:16:27,617: INFO: app]: Text extracted and information parsed from ID card: |314r|fat|HRT|rREr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|DUTPMS61ZR|Name|HITANSI SHRENIK MEHTA|Father's Name|SHRENIK MAHENDRA MEHTA|12022020|Date of Birth|30/01/2002|~itansf|
+[2024-11-05 17:16:27,618: INFO: app]: Text processed: {'ID': 'DUTPMS61ZR', 'Name': 'Name', "Father's Name": 'SHRENIK MAHENDRA MEHTA', 'DOB': datetime.datetime(2002, 1, 30, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:16:27,629: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:23:59,348: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:23:59,352: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:16,353: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:16,356: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:18,648: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:18,651: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:18,663: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:24:18,663: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:24:18,872: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:18,872: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:24:49,369: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:49,374: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:50,371: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:50,376: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:50,389: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:24:50,390: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:24:50,614: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:24:50,614: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:25:30,697: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:25:30,700: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:25:32,962: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:25:32,966: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:25:32,976: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:25:32,977: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:25:33,208: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:25:33,208: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:25:34,211: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:25:34,212: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:25:36,893: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:25:42,700: INFO: app]: Text extracted and information parsed from ID card: |HRT|TTr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|GAZPM3729R|TT4 / Name|MUSKAN KHAN|AYUB KHAN|19052020|T4|Date of Birth|12/08/1998|
+[2024-11-05 17:25:42,700: INFO: app]: Text processed: {'ID': 'GAZPM3729R', 'Name': 'TT4 / Name', "Father's Name": '19052020', 'DOB': datetime.datetime(1998, 8, 12, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:25:42,702: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:39:19,733: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:39:19,748: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:39:19,774: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:39:19,779: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:39:19,791: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:39:19,791: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:39:20,054: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:39:20,054: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:39:21,283: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:39:21,285: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:39:24,561: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:39:31,406: INFO: app]: Text extracted and information parsed from ID card: |HRT|TTr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|GAZPM3729R|TT4 / Name|MUSKAN KHAN|AYUB KHAN|19052020|T4|Date of Birth|12/08/1998|
+[2024-11-05 17:39:31,406: INFO: app]: Text processed: {'ID': 'GAZPM3729R', 'Name': 'GAZPM3729R', "Father's Name": 'MUSKAN KHAN', 'DOB': datetime.datetime(1998, 8, 12, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:40:52,728: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:52,733: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:54,802: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:54,807: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:54,822: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:40:54,823: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:40:55,093: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:55,094: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:40:56,219: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:40:56,219: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:40:57,201: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:57,206: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:57,222: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:40:57,223: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:40:57,569: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:40:57,570: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:40:58,808: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:40:58,810: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:41:03,518: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:41:03,622: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:41:12,832: INFO: app]: Text extracted and information parsed from ID card: |HRT|TTr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|GAZPM3729R|TT4 / Name|MUSKAN KHAN|AYUB KHAN|19052020|T4|Date of Birth|12/08/1998|
+[2024-11-05 17:41:12,832: INFO: app]: Text processed: {'ID': 'GAZPM3729R', 'Name': 'GAZPM3729R', "Father's Name": 'MUSKAN KHAN', 'DOB': datetime.datetime(1998, 8, 12, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:41:13,329: INFO: app]: Text extracted and information parsed from ID card: |HRT|TTr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|GAZPM3729R|TT4 / Name|MUSKAN KHAN|AYUB KHAN|19052020|T4|Date of Birth|12/08/1998|
+[2024-11-05 17:41:13,330: INFO: app]: Text processed: {'ID': 'GAZPM3729R', 'Name': 'GAZPM3729R', "Father's Name": 'MUSKAN KHAN', 'DOB': datetime.datetime(1998, 8, 12, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:42:33,324: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:42:33,328: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:42:36,991: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:42:37,011: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:42:37,022: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:42:37,023: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:42:37,269: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:42:37,269: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:42:38,555: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:42:38,556: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:42:41,572: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:42:47,679: INFO: app]: Text extracted and information parsed from ID card: |HRT|TTr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|GAZPM3729R|TT4 / Name|MUSKAN KHAN|AYUB KHAN|19052020|T4|Date of Birth|12/08/1998|
+[2024-11-05 17:42:47,679: INFO: app]: Text processed: {'ID': 'GAZPM3729R', 'Name': 'GAZPM3729R', "Father's Name": 'MUSKAN KHAN', 'DOB': datetime.datetime(1998, 8, 12, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:45:14,804: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:45:14,807: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:45:27,112: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:45:27,114: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:45:31,507: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:45:31,510: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:45:31,520: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:45:31,520: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:45:31,778: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:45:31,779: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:45:32,715: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:45:32,716: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:45:35,330: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:45:41,434: INFO: app]: Text extracted and information parsed from ID card: |HRT|TTr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|GAZPM3729R|TT4 / Name|MUSKAN KHAN|AYUB KHAN|19052020|T4|Date of Birth|12/08/1998|
+[2024-11-05 17:45:41,435: INFO: app]: Text processed: {'ID': 'GAZPM3729R', 'Name': 'GAZPM3729R', "Father's Name": 'MUSKAN KHAN', 'DOB': datetime.datetime(1998, 8, 12, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:48:18,212: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:48:34,314: WARNING: module_wrapper]: From C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-11-05 17:48:35,060: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:48:59,697: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:48:59,701: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:49:02,035: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:49:02,038: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:49:02,055: INFO: preprocess]: contours are found at, (0, 0, 734, 470)
+[2024-11-05 17:49:02,056: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\contour_id.jpg
+[2024-11-05 17:49:02,409: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:49:02,409: INFO: utils]: File exists for C:\Users\DELL\OneDrive\Desktop\machine learning\ekyc\data\02_intermediate_data\extracted_face.jpg
+[2024-11-05 17:49:07,121: INFO: ocr_engine]: Text Extraction Started...
+[2024-11-05 17:49:07,123: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-11-05 17:49:09,900: INFO: ocr_engine]: Inside Try-Catch...
+[2024-11-05 17:49:15,173: INFO: app]: Text extracted and information parsed from ID card: |HRT|TTr|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|GAZPM3729R|TT4 / Name|MUSKAN KHAN|AYUB KHAN|19052020|T4|Date of Birth|12/08/1998|
+[2024-11-05 17:49:15,177: INFO: app]: Text processed: {'ID': 'GAZPM3729R', 'Name': 'GAZPM3729R', "Father's Name": 'MUSKAN KHAN', 'DOB': datetime.datetime(1998, 8, 12, 0, 0), 'ID Type': 'PAN'}
+[2024-11-05 17:49:15,209: INFO: utils]: File exists for data\02_intermediate_data\captured_face.jpg
+[2024-11-05 17:51:19,969: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:51:19,977: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:51:59,982: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-11-05 17:51:59,985: INFO: utils]: yaml  file: config.yaml loaded successfully
